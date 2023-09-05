@@ -1,4 +1,4 @@
-module github.com/zmggit/gofuckyourself/
+module github.com/zmggit/gofuckyourself
 
 go 1.16
 
