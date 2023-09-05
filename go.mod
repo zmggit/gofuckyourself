@@ -1,4 +1,4 @@
-module swearfilter
+module github.com/zmggit/gofuckyourself/
 
 go 1.16
 
